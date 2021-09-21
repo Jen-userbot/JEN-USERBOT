@@ -10,7 +10,7 @@
 
 ![KEN UBOT Logo](https://telegra.ph/file/c7e3776382ee772c1addd.jpg)
 
-<h3 align="center">KEN USERBOT DIBUAT KARENA ISENG DOANG.</h3>
+<h3 align="center">JEN USERBOT DIBUAT KARENA ISENG DOANG.</h3>
 <p align="center">&nbsp;</p>
 
 ### Repo ZAEN 😁
