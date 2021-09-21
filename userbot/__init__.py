@@ -477,7 +477,7 @@ with bot:
                 await event.message.get_sender()
                 text = (
                     f"**Hello** [{get_display_name(u)}](tg://user?id={u.id}) **Is Its Alive Bot**\n\n"
-                    f"       令 𝐊𝐄𝐍-𝐔𝐁𝐎𝐓 令 \n"
+                    f"       令 JEN-USERBOT 令 \n"
                     "▰▱▰▱▰▱▰▱▰▱▰▱\n"
                     f"      ⚡ I'ᴍ Aʟɪᴠᴇ​ ⚡ \n"
                     "▰▱▰▱▰▱▰▱▰▱▰▱ \n"
