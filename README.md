@@ -8,12 +8,12 @@
     </p>
     
 
-![Jaen-userbot Logo](https://telegra.ph/file/c7e3776382ee772c1addd.jpg)
+![KEN UBOT Logo](https://telegra.ph/file/c7e3776382ee772c1addd.jpg)
 
 <h3 align="center">KEN USERBOT DIBUAT KARENA ISENG DOANG.</h3>
 <p align="center">&nbsp;</p>
 
-### Repo KEN UBOT
+### Repo ZAEN 😁
 Repo Yang Dibuat Oleh [ken](https://t.me/xgothboi) Dari beberapa Repo Yang Ada Di Github. 
 
 
@@ -30,7 +30,7 @@ Repo Yang Dibuat Oleh [ken](https://t.me/xgothboi) Dari beberapa Repo Yang Ada D
 
 
 ⚡ **THANK YOU VERY MUCH FOR**
-*   [Zaen](https://github.com/Zaen_music/JEN-USERBOT)    Ken - Userbot
+*   [Zaen](https://github.com/Zaen_music/JEN-USERBOT)    Jaen - Userbot
 *   [Apis](https://github.com/apisuserbot/King-Userbot)     King - Userbot
 *   [VCKYOU](https://github.com/Vckyou/Geez-Project)    Geez - Project 
 *   [Koala](https://github.com/ManusiaRakitan/Kampang-Bot)    Kampang - Bot
